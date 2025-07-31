@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseAppProject2</string>
+    <!--Google and Facebook Sign-In Client ID-->
+    <string name="default_web_client_id">1046853530115-1t3q371tfr4bk521j8bqq1nk7srk3em9.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1396627864678272</string>
+    <string name="facebook_client_token">cb38b16368d8057267a67b0a4f1a044d</string>
+
+
+</resources>
